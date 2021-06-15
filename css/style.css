@@ -1,0 +1,9 @@
+body {
+    background: hotpink;
+}
+
+.clearfix:after {
+    content: "";
+    clear: both;
+    display: table;
+}
